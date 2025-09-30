@@ -1,4 +1,4 @@
-Projeto inicialmente desenvolvido para fins estudantis, visando aplicar conceitos de programação orientada a objetos em Java, lógica de programção e tratamento de exceções/erros. 
+Projeto inicialmente desenvolvido para fins estudantis, visando aplicar conceitos de programação orientada a objetos em Java, lógica de programação e tratamento de exceções/erros. 
 
 O sistema funciona com um menu interativo, que permite ao usuário escolher uma das opções:
 
