@@ -1,4 +1,4 @@
-Projeto inicialmente desenvolvido para fins estudantis, visando aplicar conceitos de programação orientada a objetos em Java, lógica de programção e tratamento de erros. 
+Projeto inicialmente desenvolvido para fins estudantis, visando aplicar conceitos de programação orientada a objetos em Java, lógica de programção e tratamento de exceções/erros. 
 
 O sistema funciona com um menu interativo, que permite ao usuário escolher uma das opções:
 
@@ -8,7 +8,7 @@ O sistema funciona com um menu interativo, que permite ao usuário escolher uma 
 - Remover um produto;
 - Sair;
 
-O menu é repetido toda vez que o usuário realiza uma opção, apenas sendo interrompido quando escolhe sair ou quando o usuário é advertido com uma exceção. As informações capturadas no cadastro são armazenadas na memória, através de um ArrayList. 
+O menu é repetido toda vez que o usuário realiza uma opção, apenas sendo interrompido quando escolhe sair ou quando o usuário é advertido com uma exceção (nesse último caso, retoma quanto a exceção é tratada). As informações capturadas no cadastro são armazenadas na memória, através de um ArrayList. 
 
 Conceitos aplicados:
 - Lógica de Programção;
