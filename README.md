@@ -13,5 +13,6 @@ O menu é repetido toda vez que o usuário realiza uma opção, apenas sendo int
 Conceitos aplicados:
 - Lógica de Programção;
 - POO (Classe, Encapsulamento, Construtor, Sobrescrita);
+- Tratamento de Erros/Exceções;
 - Estrutura de Dados (ArrayList);
 - Estruturas de Controle (while, for, if/else).
